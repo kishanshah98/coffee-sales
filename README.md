@@ -1,1 +1,1 @@
-![Coffee Sales Dashboard](images/image1.png)
+![Coffee Sales Dashboard](images/dashboard.png)
